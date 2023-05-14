@@ -1,4 +1,7 @@
 component: frontend
+params: ""
+
+
 
 service:
   type: LoadBalancer
